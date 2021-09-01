@@ -1,2 +1,6 @@
 [ProjectGroup]
 Version=1.0
+[Project1]
+ProjectPath=EmbeddedControl_Hardware_PCBProject.PrjPCB
+[Project2]
+ProjectPath=..\..\OneDrive - NHL Stenden\Software_Synchronisatie\Altium\Library\Connectoren\Connectoren.LibPkg
