@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Users\fredr\Github\EmbeddedControl_Hardware\converterBoard.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Text|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

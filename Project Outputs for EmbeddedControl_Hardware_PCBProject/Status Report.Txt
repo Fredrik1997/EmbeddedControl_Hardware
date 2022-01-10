@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EmbeddedControl_Hardware_PCBProject.PrjPCB]
+   Generated File[converterBoard.TXT]
+   Generated File[converterBoard.LDP]
+   Generated File[converterBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:06:23 On 15-12-2021
